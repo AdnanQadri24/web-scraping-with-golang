@@ -22,3 +22,6 @@ Project ini adalah contoh implementasi web scraping menggunakan Go dan library C
 ## Teknologi yang Digunakan
 - Go
 - Colly (Web Scraping Framework) 
+
+Output Keluaran:
+![Hasil Web Scraping](img/ss-hasil.png)
